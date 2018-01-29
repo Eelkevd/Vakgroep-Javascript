@@ -1,0 +1,33 @@
+Wat ik wil doen voor komende 4week?:
+- Webspel
+- Animeren
+- DOOLHOF (2d)
+
+Framework:
+p5js
+Volg de tutorial op de website https://p5js.org/ 
+
+Project
+1. Webbrowser game
+2. Doolhof
+3. Loop door doolhof en vindt uitgang
+(Optioneel)
+4. "Finish line"
+5. Groter maken
+6. Doolhof is random (misschien makkelijker te halen met statische vierkanten als building blocks)
+
+Plan van aanpak
+1. Oefen met p5js (tutorials, voorbeelden, etc.)
+2. Project:
+	2.1 Maak een canvas en teken een klein pad (met bijv. statische vierkanten)
+	2.2 Bestuur een object met arrow buttons (of eventueel muis)
+	2.3 Implementeer bestuurbaar object in het canvas
+	2.4 Maak "borders" aan voor collision (hitboxes?)
+	2.5 Maak doolhof
+	Optioneel
+	2.5 Maak een finishline met een "gefeliciteerd" einde
+	2.6 Breid het doolhof uit (eventueel eerder dan 2.5)
+	2.7 Building blocks zijn random (function aan btn verbonden)
+		- LET OP dat er altijd een pad open is. 
+3. Documenteer en commit elke dag, vul README goed aan (changelog, bugs, fixes, etc.)
+
